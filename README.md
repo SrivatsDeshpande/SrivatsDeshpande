@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrivatsDeshpande
 - 👀 I’m interested in building cool Web Applications
-- 🌱 I’m currently learning Django and React
-- 💞️ I’m looking to collaborate on anything that involves SDE or FullStack development
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on anything that involves SDE or backend development
 - 📫 How to reach me - You can reach me at https://www.linkedin.com/in/srivats-deshpande/
 
 <!---
